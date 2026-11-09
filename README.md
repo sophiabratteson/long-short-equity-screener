@@ -1,5 +1,3 @@
-# long-short-equity-screener
-
 # Long/Short Equity Screener: Online Advertising Platforms
 
 A Python project that ranks online advertising companies on value, growth,
